@@ -1,0 +1,2 @@
+# dg-test-sub
+submodule
