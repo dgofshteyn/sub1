@@ -1,2 +1,2 @@
-# dg-test-sub
+# sub1
 submodule
